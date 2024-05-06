@@ -1,4 +1,3 @@
-#port scanner
 import socket
 from colorama import Fore
 
